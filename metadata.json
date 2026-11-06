@@ -1,0 +1,6 @@
+{
+  "name": "天和閣精品雀莊 | Tian He Mahjong Lounge",
+  "description": "台北頂級旗艦麻將休閒會館，配備全自動靜音麻將桌、新風除煙VIP包廂、線上即時桌況預訂、三缺一揪牌牆、台數點數試算神器與極品茗茶美饌。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
